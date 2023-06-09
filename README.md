@@ -1,4 +1,4 @@
 # wallpaper
 My Wallpapers:
 ### lightbulb
-![[lightbulb.jpg]]
+![lightbulb](lightbulb.jpg)
