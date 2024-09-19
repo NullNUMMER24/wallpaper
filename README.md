@@ -6,3 +6,5 @@ My Wallpapers:
 ![mountain](mountain.jpg)
 ### City
 ![city](city.jpg)
+### Amethyst
+![amethyst](amethyst.jpg)
